@@ -24,7 +24,7 @@ education   : B.Tech CSE (AI & Data Science) @ GLA University, Mathura
 graduation  : June 2028  |  CGPA: 7.68
 focus       : AI/ML · Full-Stack Development · DSA · Open Source
 currently   : Building intelligent platforms & sharpening DSA skills
-contact     : anand.rawat_cs24@gla.ac.in  |  +91 7060918968
+contact     : anandrawat1062008@gmail.com  |  +91 7060918968
 ```
 
 - 🧠 Exploring the intersection of **AI, Data Science, and Web Development**
