@@ -21,7 +21,7 @@
 name        : Anand Rawat
 location    : Agra, India
 education   : B.Tech CSE (AI & Data Science) @ GLA University, Mathura
-graduation  : June 2028  |  CGPA: 7.68
+graduation  : 2024-2028
 focus       : AI/ML · Full-Stack Development · DSA · Open Source
 currently   : Building intelligent platforms & sharpening DSA skills
 contact     : anandrawat1062008@gmail.com  |  +91 7060918968
