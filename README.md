@@ -28,7 +28,7 @@ contact     : anandrawat1062008@gmail.com  |  +91 7060918968
 ```
 
 - 🧠 Exploring the intersection of **AI, Data Science, and Web Development**
-- 🏆 **LeetCode Rating: 1680** · **400+ problems solved** · **200+ day streak**
+- 🏆 **LeetCode Rating: 1700+** · **400+ problems solved** · **200+ day streak**
 - 🥉 **3rd Prize** at **HackForge 2k25** — built a real-time cyber attack monitoring system
 - 📜 Certified in **Machine Learning Specialization** by **DeepLearning.AI**
 - 🔭 Currently working on **AI-powered student platforms** and **community tools**
@@ -136,7 +136,7 @@ contact     : anandrawat1062008@gmail.com  |  +91 7060918968
 |----------------|---------|
 | 🥉 **HackForge 2k25** | 3rd Prize — Cyber Attack Monitoring System |
 | 📜 **ML Specialization** | DeepLearning.AI (Coursera) |
-| ⚡ **LeetCode Rating** | 1680 Contest Rating |
+| ⚡ **LeetCode Rating** | 1700+ Contest Rating |
 | 💡 **Problem Solving** | 400+ LeetCode problems · 200+ day streak |
 | 🎭 **Event Management** | Coordinated SRIJAN Fest — ops & team collaboration |
 
@@ -153,7 +153,7 @@ contact     : anandrawat1062008@gmail.com  |  +91 7060918968
 </div>
 
 > 🔥 **400+ problems solved** across Arrays, Trees, Graphs, DP, and System Design  
-> ⚡ **Contest Rating: 1680** | **200+ day coding streak** | Primary language: **Java**
+> ⚡ **Contest Rating: 1700+** | **200+ day coding streak** | Primary language: **Java**
 
 ---
 
